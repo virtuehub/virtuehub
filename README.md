@@ -1,5 +1,3 @@
-<img src="https://giphy.com/embed/fwbZnTftCXVocKzfxR" align="right" width="400" height="250">
-
 ### Hi there, I'm Erdem. :cool:
 
 ## Web Developer | Embedded System Developer | Databases
@@ -16,10 +14,10 @@
 ### Tech I use
 
 <img align="left"  src="https://unpkg.com/simple-icons@v4/icons/javascript.svg" width="25" height="25" />
-<img align="left"  src="https://unpkg.com/simple-icons@v4/icons/nodejs.svg" width="25" height="25" />
+<img align="left"  src="https://unpkg.com/simple-icons@v4/icons/node.js.svg" width="25" height="25" />
 <img align="left"  src="https://unpkg.com/simple-icons@v4/icons/php.svg" width="25" height="25" />
-<img align="left"  src="https://unpkg.com/simple-icons@v4/icons/html.svg" width="25" height="25" />
-<img align="left"  src="https://unpkg.com/simple-icons@v4/icons/css.svg" width="25" height="25" />
+<img align="left"  src="https://unpkg.com/simple-icons@v4/icons/html5.svg" width="25" height="25" />
+<img align="left"  src="https://unpkg.com/simple-icons@v4/icons/css3.svg" width="25" height="25" />
 <img align="left"  src="https://unpkg.com/simple-icons@v4/icons/lua.svg" width="25" height="25" />
 <img align="left"  src="https://unpkg.com/simple-icons@v4/icons/mysql.svg" width="25" height="25" />
 <img align="left"  src="https://unpkg.com/simple-icons@v4/icons/mongodb.svg" width="25" height="25" />
