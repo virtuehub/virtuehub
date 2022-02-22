@@ -7,14 +7,14 @@
 </p>
 
 
-### Contact to Me
+### Contact to Me :
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" align="left" />][gmail]
 
 <br />
 <br />
 
-### My Skills
+### My Skills :
 
 <img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" />
 <img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="35" height="35" />
@@ -25,6 +25,7 @@
 <img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="35" height="35" />
 <img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="35" height="35" />
 <img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" height="35" />
+<br />
 <br />
 <br />
 
