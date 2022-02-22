@@ -1,6 +1,10 @@
-### Hello, I'm Erdem. 😎
+<p align="center">
+ Hello, I'm Erdem. 😎
+</p>
 
-## Web Developer | Embedded System Developer | Databases
+<p align="center">
+ Web Developer | Embedded System Developer | Databases
+</p>
 
 
 ### Contact to Me
