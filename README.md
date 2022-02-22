@@ -2,7 +2,6 @@
 
 ## Web Developer | Embedded System Developer | Databases
 
-<font color="pink">Coffee :coffee: is how I keep up with `< code />` </font>
 
 ### Reach out to me
 
@@ -14,7 +13,7 @@
 ### Tech I use
 
 <img align="left"  src="https://unpkg.com/simple-icons@v4/icons/javascript.svg" width="25" height="25" />
-<img align="left"  src="https://unpkg.com/simple-icons@v4/icons/node.js.svg" width="25" height="25" />
+<img align="left"  src="https://unpkg.com/simple-icons@v4/icons/node-dot-js.svg" width="25" height="25" />
 <img align="left"  src="https://unpkg.com/simple-icons@v4/icons/php.svg" width="25" height="25" />
 <img align="left"  src="https://unpkg.com/simple-icons@v4/icons/html5.svg" width="25" height="25" />
 <img align="left"  src="https://unpkg.com/simple-icons@v4/icons/css3.svg" width="25" height="25" />
