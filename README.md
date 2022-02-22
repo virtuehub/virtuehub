@@ -1,9 +1,9 @@
-### Hi there, I'm Erdem. 😎
+### Hello, I'm Erdem. 😎
 
 ## Web Developer | Embedded System Developer | Databases
 
 
-### Reach out to me
+### Contact
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" align="left" />][gmail]
 
