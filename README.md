@@ -1,4 +1,4 @@
-### Hi there, I'm Erdem. :cool:
+### Hi there, I'm Erdem. 😎
 
 ## Web Developer | Embedded System Developer | Databases
 
@@ -12,25 +12,25 @@
 
 ### Tech I use
 
-<img align="left"  style="background-color:#FF0000;" src="https://unpkg.com/simple-icons@v4/icons/javascript.svg" width="25" height="25" />
-<img align="left"  src="https://unpkg.com/simple-icons@v4/icons/node-dot-js.svg" width="25" height="25" />
-<img align="left"  src="https://unpkg.com/simple-icons@v4/icons/php.svg" width="25" height="25" />
-<img align="left"  src="https://unpkg.com/simple-icons@v4/icons/html5.svg" width="25" height="25" />
-<img align="left"  src="https://unpkg.com/simple-icons@v4/icons/css3.svg" width="25" height="25" />
-<img align="left"  src="https://unpkg.com/simple-icons@v4/icons/lua.svg" width="25" height="25" />
-<img align="left"  src="https://unpkg.com/simple-icons@v4/icons/mysql.svg" width="25" height="25" />
-<img align="left"  src="https://unpkg.com/simple-icons@v4/icons/mongodb.svg" width="25" height="25" />
-<img align="left"  src="https://unpkg.com/simple-icons@v4/icons/c.svg" width="25" height="25" />
+<img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25" />
+<img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="25" height="25" />
+<img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25" height="25" />
+<img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="25" height="25" />
+<img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="25" height="25" />
+<img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="25" height="25" />
+<img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="25" height="25" />
+<img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="25" height="25" />
+<img align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="25" height="25" />
 <br />
 <br />
 
 <details>
-<summary>:bulb: Github Stats</summary>
+<summary> 👉 Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=virtuehub&theme=radical" >
 </details>
 
 <details>
-<summary>:bulb:  Most Used Languages</summary>
+<summary> 👉  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtuehub&layout=compact" >
 </details>
 
