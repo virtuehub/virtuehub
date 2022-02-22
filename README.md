@@ -29,9 +29,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=virtuehub&theme=radical" >
 </details>
 
-<details>
-<summary> 👉  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtuehub&layout=compact" >
-</details>
-
 [gmail]: mailto:virtuengineer@hotmail.com
